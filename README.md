@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Subarna-007
+- 👋 Hi, I’m **Subarna**
 - 👀 I’m interested in things about **Computer Science.**
 - 🌱 I’m currently learning living for myself.
 - 💞️ I’m looking to collaborate on **Open Source Project.**
